@@ -34,5 +34,13 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+github "virtualbox", "1.0.6"
+github "vagrant",    "2.0.13"
+github "eclipse",    "2.2.0"
+github "libreoffice", "4.1.1"
+github "mysql",      "1.1.5"
+
+
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
